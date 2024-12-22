@@ -1,0 +1,16 @@
+[user]
+	email = nemanja.keca@gmail.com
+	name  = Nemanja
+[core]
+	editor = vim
+[pager]
+	branch = false
+[alias]
+	remaster = rebase master
+	remain   = rebase main
+[branch]
+	sort = -committerdate
+[diff]
+	colorMoved = default
+[log]
+	date = iso
